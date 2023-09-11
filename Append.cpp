@@ -1,4 +1,4 @@
-// write a program to insert some element in a perticular in dex of an array
+// write a program to insert some element in a perticular index of an array
 
 #include <iostream>
 using namespace std;
