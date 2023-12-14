@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/DSAGithub/DSA/Array/Searching",
-      "program": "d:/DSAGithub/DSA/Array/Searching/build/Debug/outDebug",
+      "cwd": "d:/DSAGithub/DSA/Array",
+      "program": "d:/DSAGithub/DSA/Array/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
