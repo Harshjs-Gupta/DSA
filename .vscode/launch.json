@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/DSAGithub/DSA/Array/PairOFElement",
-      "program": "d:/DSAGithub/DSA/Array/PairOFElement/build/Debug/outDebug",
+      "cwd": "d:/DSAGithub/DSA/Array/LeftRotate",
+      "program": "d:/DSAGithub/DSA/Array/LeftRotate/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
