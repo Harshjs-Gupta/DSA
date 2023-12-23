@@ -1,4 +1,4 @@
-// write a program to merge an elements of an array
+            // write a program to merge an elements of an array
 
 #include <iostream>
 using namespace std;
