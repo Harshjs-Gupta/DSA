@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/DSAGithub/DSA/Array/MergingElement",
-      "program": "d:/DSAGithub/DSA/Array/MergingElement/build/Debug/outDebug",
+      "cwd": "d:/DSAGithub/DSA/Array/Append",
+      "program": "d:/DSAGithub/DSA/Array/Append/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
