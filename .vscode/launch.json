@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/DSAGithub/DSA/Array/DeleteOperation",
-      "program": "d:/DSAGithub/DSA/Array/DeleteOperation/build/Debug/outDebug",
+      "cwd": "d:/DSAGithub/DSA/Array/FindMaximumAndMinimum",
+      "program": "d:/DSAGithub/DSA/Array/FindMaximumAndMinimum/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
