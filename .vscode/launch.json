@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/DSAGithub/DSA/Array/IncreaseArraySize",
-      "program": "d:/DSAGithub/DSA/Array/IncreaseArraySize/build/Debug/outDebug",
+      "cwd": "d:/DSAGithub/DSA/Array/LeaderSearch",
+      "program": "d:/DSAGithub/DSA/Array/LeaderSearch/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
