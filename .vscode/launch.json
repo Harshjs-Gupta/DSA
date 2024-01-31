@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/DSAGithub/DSA/Array/MoveToFront",
-      "program": "d:/DSAGithub/DSA/Array/MoveToFront/build/Debug/outDebug",
+      "cwd": "d:/DSAGithub/DSA/Array/OperatorsInCPP",
+      "program": "d:/DSAGithub/DSA/Array/OperatorsInCPP/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
