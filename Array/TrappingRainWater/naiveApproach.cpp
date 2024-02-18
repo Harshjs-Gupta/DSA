@@ -3,21 +3,20 @@ using namespace std;
 
 int trappingRainWater(int arr[1000], int n)
 {
-    int leftMax[n], rightMax[n];
     int units = 0;
-    leftMax[0] = arr[0];
-    for (int i = 1; i < n; i++)
+    for (int i = 0; i < n - 1; i++)
     {
-        leftMax[i] = max(leftMax[i - 1], arr[i]);
-    }
-    rightMax[n - 1] = arr[n - 1];
-    for (int j = n - 2; j >= 0; j--)
-    {
-        rightMax[j] = max(rightMax[j + 1], arr[j]);
-    }
-    for (int i = 0; i < n; i++)
-    {
-        units = units + (min(leftMax[i], rightMax[i])) - arr[i];
+        int leftMax = arr[i];
+        for (int j = 0; j < n; j++)
+        {
+            leftMax = max(leftMax, arr[j]);
+        }
+        int rightMax = arr[i];
+        for (int j = i + 1; j < i; j++)
+        {
+            rightMax = max(rightMax, arr[j]);
+        }
+        units = units + (min(leftMax, rightMax)) - arr[i];
     }
     cout << "The number of units of water is stored in block is-> " << units << " units";
 }

@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/DSAGithub/DSA/Array/StockBuyAndSell",
-      "program": "d:/DSAGithub/DSA/Array/StockBuyAndSell/build/Debug/outDebug",
+      "cwd": "d:/DSAGithub/DSA/Array/TrappingRainWater",
+      "program": "d:/DSAGithub/DSA/Array/TrappingRainWater/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
