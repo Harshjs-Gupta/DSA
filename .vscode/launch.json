@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/DSAGithub/DSA/Array/TrappingRainWater",
-      "program": "d:/DSAGithub/DSA/Array/TrappingRainWater/build/Debug/outDebug",
+      "cwd": "d:/DSAGithub/DSA/Array/LongestEvenOddSubarray",
+      "program": "d:/DSAGithub/DSA/Array/LongestEvenOddSubarray/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
