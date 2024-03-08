@@ -4,7 +4,6 @@ using namespace std;
 int maxEvenOdd(int arr[1000], int n)
 {
     int res = 1, current = 1;
-    ;
     for (int i = 1; i < n; i++)
     {
         if ((arr[i] % 2 == 0 && arr[i - 1] % 2 != 0) || (arr[i] % 2 != 0 && arr[i - 1] % 2 == 0))
