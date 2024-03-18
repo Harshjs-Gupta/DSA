@@ -12,7 +12,7 @@ int majorityElement(int arr[1000], int n)
                 count++;
         }
         if (count > (n / 2))
-            return i;
+            return arr[i];
     }
     return -1;
 }
