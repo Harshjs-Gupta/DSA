@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/DSAGithub/DSA/Array/LongestEvenOddSubarray",
-      "program": "d:/DSAGithub/DSA/Array/LongestEvenOddSubarray/build/Debug/outDebug",
+      "cwd": "d:/DSAGithub/DSA/Array/SlidingWindowTechnique",
+      "program": "d:/DSAGithub/DSA/Array/SlidingWindowTechnique/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
