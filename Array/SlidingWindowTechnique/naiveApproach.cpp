@@ -1,4 +1,5 @@
 #include <iostream>
+#include <climits>
 using namespace std;
 
 int maxSum(int arr[], int n, int k)
@@ -19,16 +20,17 @@ int maxSum(int arr[], int n, int k)
 int main()
 {
     int arr[1000], n, res, k;
-    cout << "Enter the number of elemenst: ";
+    cout << "Enter the number of elements: ";
     cin >> n;
     cout << "Enter the elements: ";
     for (int i = 0; i < n; i++)
     {
         cin >> arr[i];
     }
-    cout << "Enter the number of digit you have to add: ";
+    cout << "Enter the number k: ";
     cin >> k;
     res = maxSum(arr, n, k);
+    cout << "The maximum sum is : " << res << endl;
 
     return 0;
 }
